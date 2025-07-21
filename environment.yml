@@ -6,10 +6,11 @@ dependencies:
   - python=3.10
   - pip
   - portaudio
+  - ipykernel
   - pip:
       - speechrecognition
       - google-generativeai
       - pyaudio
       - python-dotenv
       - pyttsx3
-      - pywin32 
+      - pywin32
