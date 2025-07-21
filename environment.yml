@@ -1,0 +1,13 @@
+name: voice-ai-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - portaudio
+  - pip:
+      - speechrecognition
+      - pyttsx3
+      - google-generativeai
+      - pyaudio
