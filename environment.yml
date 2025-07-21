@@ -11,4 +11,5 @@ dependencies:
       - google-generativeai
       - pyaudio
       - python-dotenv
+      - pyttsx3
       - pywin32 
