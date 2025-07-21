@@ -11,3 +11,4 @@ dependencies:
       - pyttsx3
       - google-generativeai
       - pyaudio
+      - python-dotenv
