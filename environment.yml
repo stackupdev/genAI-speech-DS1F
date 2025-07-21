@@ -8,7 +8,7 @@ dependencies:
   - portaudio
   - pip:
       - speechrecognition
-      - pyttsx3
       - google-generativeai
       - pyaudio
       - python-dotenv
+      - pywin32 
